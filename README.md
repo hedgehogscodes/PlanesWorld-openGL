@@ -25,7 +25,7 @@
  
 <div>
 <p>
-  <img  src=""/>
+  <img  src="https://github.com/hedgehogscodes/PlanesWorld-openGL/blob/main/assets/planes.png"/>
 </p>
 </div>
 Рисунок 1 – Модель с позиции наблюдателя
