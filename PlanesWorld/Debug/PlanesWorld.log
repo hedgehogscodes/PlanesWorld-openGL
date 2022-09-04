@@ -1,0 +1,8 @@
+﻿  planes.cpp
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(220,27): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(220,48): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(220,71): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(207,10): warning C4101: red: неиспользованная локальная переменная
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(207,22): warning C4101: blue: неиспользованная локальная переменная
+C:\Users\zjora\Desktop\PlanesWorld\PlanesWorld\planes.cpp(207,15): warning C4101: green: неиспользованная локальная переменная
+  PlanesWorld.vcxproj -> C:\Users\zjora\Desktop\PlanesWorld\Debug\PlanesWorld.exe
